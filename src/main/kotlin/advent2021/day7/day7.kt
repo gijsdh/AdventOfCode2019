@@ -1,7 +1,6 @@
 package advent2021.day7
-import advent2021.day6.Planet2
 import getResourceAsText
-import java.util.*
+import java.sql.DriverManager.println
 
 fun main(args: Array<String>) {
     val input = getResourceAsText("input.txt")
